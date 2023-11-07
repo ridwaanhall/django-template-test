@@ -4,7 +4,7 @@ This is a template to get you started with Python on Replit. It's ready to go so
 
 ## ridwaanhall
 
-follow me on [linkedin]([https://docs.replit.com](https://www.linkedin.com/in/ridwaanhall))
+follow me on [linkedin]([https://docs.replit.com](https://www.linkedin.com/in/ridwaanhall)
 
 ## Running the repl
 
